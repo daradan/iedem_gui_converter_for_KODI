@@ -2,6 +2,8 @@
 
 Функция работы также как и в [консольной версии](https://github.com/daradan/iedem_converter_for_KODI)
 
+![](https://github.com/daradan/img/blob/master/kodi_02.jpg?raw=true)
+
 Как и что делать, можете посмотреть на видео
 
 [![Edem (IEdem, IlookTV) converter GUI for KODI
